@@ -1,0 +1,26 @@
+<articles>
+  <article>
+    <title>The Makeup Update</title>
+    <date>07 April 2021</date>
+    <description>
+      In this update, we're adding features, and redesigning the UI!
+    </description>
+    <body>
+      <p>
+        When this game was first built, it was just a simple project I created when I was bored. I had made it in a day or two, and hadn't put much effort into many parts of it.
+        This meant a very ugly looking ui. However, in this update, this is one of the biggest things I set out to change!
+      </p>
+      <p>
+        The UI has been entirely redesigned from the ground up, with some actual thought and effort being put in to making it look nice, be adaptive, and be functional.
+        I am not much of a UI person, and don't have too much experience in this area, so I did some research, and tried to create a decent looking UI to replace the
+        bland and basic original system.
+      </p>
+      <header>Changelog</header>
+      <ul>
+        <li>Redesigned GUIs</li>
+        <li>Moved master branch to legacy branch</li>
+        <li>Merged rewrite branch to master branch</li>
+      </ul>
+    </body>
+  </article>
+</articles>
